@@ -1,0 +1,56 @@
+C:\Users\Вадим\OneDrive\Рабочий стол\курсач\a\The Vigenere Cipher\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Вадим\OneDrive\Рабочий стол\курсач\a\The Vigenere Cipher\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\test.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\test.pdb
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\protect_inf_LR1.exe
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\protect_inf_LR1.pdb
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\obj\Debug\test.dll
+C:\Users\nikit\Downloads\курсач\курсач\a\The Vigenere Cipher\test\obj\Debug\test.pdb
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\test.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\test.pdb
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\protect_inf_LR1.exe
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\obj\Debug\test.dll
+C:\Users\Вадим\OneDrive\Рабочий стол\курсачч\курсач\a\The Vigenere Cipher\test\obj\Debug\test.pdb
